@@ -7,7 +7,9 @@ I'm a passionate developer focused on building **scalable, reproducible, and por
 - **Pipeline Orchestration:**  
   - ⚙️ Nextflow  
 - **Containerization & Virtualization:**  
-  - 🐳 Docker, Singularity  
+  - 🐳 Docker, Singularity
+- **High-Performance Computing (HPC):**  
+  - 🟢 SLURM Workload Manager 
 - **Areas of Expertise:**  
   - 🧬 Bioinformatics and omics sciences  
   - 🛠️ Developing efficient and automated workflows  
@@ -15,20 +17,11 @@ I'm a passionate developer focused on building **scalable, reproducible, and por
 ---
 
 ### 🌱 Currently Learning  
-- 💡 Optimizing Nextflow pipelines for HPC clusters and cloud environments  
-- 🟢 Exploring best practices for containerization and reproducible deployment  
-
----
-
-### 💬 Ask Me About  
-- 🧩 Designing modular and scalable pipelines  
-- 🟢 Containerization with Docker and Singularity  
-- ⚙️ Nextflow for bioinformatics analysis  
-- 🐍 Development in Python, R, Bash, and Groovy  
+- 💡 Exploring advanced containerization techniques for complex workflows  
+- 🟢 Enhancing pipeline portability and scalability in cloud environments
 
 ---
 
 ### ⚡ A Bit More About Me  
 - 💡 Passionate about solving complex problems through workflow automation.  
 - 🌎 Advocate for reproducible science and open knowledge sharing.  
-- 🎮 Occasional gamer and tech enthusiast.   
