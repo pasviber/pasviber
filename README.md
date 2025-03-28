@@ -5,7 +5,7 @@ I'm a passionate developer focused on building **scalable, reproducible, and por
 - **Programming Languages:**  
   - Bash, Python, R, and Groovy  
 - **Pipeline Orchestration:**  
-  - ⚙Nextflow  
+  - Nextflow  
 - **Containerization & Virtualization:**  
   - Docker, Singularity
 - **High-Performance Computing (HPC):**  
