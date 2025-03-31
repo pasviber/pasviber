@@ -23,5 +23,5 @@ I'm a passionate developer focused on building **scalable, reproducible, and por
 ---
 
 ### ⚡ A Bit More About Me  
-- Passionate about solving complex problems through workflow automation.  
+- Passionate about solving complex problems.  
 - Advocate for reproducible science and open knowledge sharing.  
